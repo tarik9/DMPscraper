@@ -5,7 +5,7 @@
 dist
 node_modules
 apify_storage
-storage
+
 
 # Added by Apify CLI
 .venv
